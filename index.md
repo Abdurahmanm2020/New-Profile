@@ -36,9 +36,9 @@ here you can see all of my great and hard werk in one
  10. Coming soon
  
 [Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+For more details see(https://guides.github.com/features/mastering-markdown/).
 
 ### offers
 
