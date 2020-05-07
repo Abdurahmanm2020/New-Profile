@@ -6,31 +6,31 @@ here you can see all of my great and hard werk in one
 
 ### profil
 
- 1. <button><a href="https://abdurahmanm2020.github.io/PetHunt-Pet-retailer/"></a></button>
+ 1. <button>https://abdurahmanm2020.github.io/PetHunt-Pet-retailer/</button>
  
  
- 2. <button><a href="https://abdurahmanm2020.github.io/Dice-to-rule/start-page.html"></a></button>
+ 2. <button>https://abdurahmanm2020.github.io/Dice-to-rule/start-page.html</button>
  
  
- 3. <button><a href="https://abdurahmanm2020.github.io/music-maker/"></a></button>
+ 3. <button>https://abdurahmanm2020.github.io/music-maker/</button>
  
  
- 4. <button><a href="https://abdurahmanm2020.github.io/loving/"></a></button>
+ 4. <button>https://abdurahmanm2020.github.io/loving/</button>
  
  
- 5. <button><a href="https://abdurahmanm2020.github.io/SIMON/start.html"></a></button>
+ 5. <button>https://abdurahmanm2020.github.io/SIMON/start.html</button>
  
  
- 6. <button><a href="https://abdurahmanm2020.github.io/PetHunt/"></a></button>
+ 6. <button>https://abdurahmanm2020.github.io/PetHunt/</button>
  
  
- 7. <a href="<button>https://abdurahmanm2020.github.io/Manny/"></a></button>
+ 7. <button>https://abdurahmanm2020.github.io/Manny/</button>
  
  
- 8. <a href="<button>https://abdurahmanm2020.github.io/sos-two/</button>"></a>
+ 8. <button>https://abdurahmanm2020.github.io/sos-two/</button>
  
  
- 9. <a href="<button>https://abdurahmanm2020.github.io/AbduMannWebsite/index.html</button>"></a>
+ 9. <button>https://abdurahmanm2020.github.io/AbduMannWebsite/index.html</button>
  
  
  10. Coming soon
@@ -42,8 +42,8 @@ For more details see(https://guides.github.com/features/mastering-markdown/).
 
 ### offers
 
-i have been coding for a very long time and I now feel as if I am ready for some more chaliges SEE MORE OF MY WERK <a href="(https://github.com/Abdurahmanm2020)."></a> if you have a job you whant to bo done give me the money and Il give you you site 
+i have been coding for a very long time and I now feel as if I am ready for some more chaliges SEE MORE OF MY WERK (https://github.com/Abdurahmanm2020). if you have a job you whant to bo done give me the money and Il give you you site 
 
 ### Support or Contact
 
-you can find me here? Check out<a href="(https://github.com/Abdurahmanm2020"></a>) and Il check in
+you can find me here? Check out(https://github.com/Abdurahmanm2020) and Il check in
