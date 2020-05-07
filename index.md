@@ -6,31 +6,31 @@ here you can see all of my great and hard werk in one
 
 ### profil
 
- 1. <button>https://abdurahmanm2020.github.io/PetHunt-Pet-retailer/</button>
+ 1. https://abdurahmanm2020.github.io/PetHunt-Pet-retailer/
  
  
- 2. <button>https://abdurahmanm2020.github.io/Dice-to-rule/start-page.html</button>
+ 2. https://abdurahmanm2020.github.io/Dice-to-rule/start-page.html
  
  
- 3. <button>https://abdurahmanm2020.github.io/music-maker/</button>
+ 3. https://abdurahmanm2020.github.io/music-maker/
  
  
- 4. <button>https://abdurahmanm2020.github.io/loving/</button>
+ 4. https://abdurahmanm2020.github.io/loving/
  
  
- 5. <button>https://abdurahmanm2020.github.io/SIMON/start.html</button>
+ 5. https://abdurahmanm2020.github.io/SIMON/start.html
  
  
- 6. <button>https://abdurahmanm2020.github.io/PetHunt/</button>
+ 6. https://abdurahmanm2020.github.io/PetHunt/
  
  
- 7. <button>https://abdurahmanm2020.github.io/Manny/</button>
+ 7. https://abdurahmanm2020.github.io/Manny/
  
  
- 8. <button>https://abdurahmanm2020.github.io/sos-two/</button>
+ 8. https://abdurahmanm2020.github.io/sos-two/
  
  
- 9. <button>https://abdurahmanm2020.github.io/AbduMannWebsite/index.html</button>
+ 9. https://abdurahmanm2020.github.io/AbduMannWebsite/index.html
  
  
  10. Coming soon
