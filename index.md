@@ -22,17 +22,17 @@ here you can see all of my great and hard werk in one
  
  8. [![Image](huddle.jpg)](https://abdurahmanm2020.github.io/Huddle/)
  
- 9. [![Image](fyol.jpg)](https://abdurahmanm2020.github.io/Fylo/)
+ 9. [![Image](images profile/fyol.jpg)](https://abdurahmanm2020.github.io/Fylo/)
  
- 10. [![Image](dice-to-rule.jpg)](https://abdurahmanm2020.github.io/Dice-to-rule/start-page.html)
+ 10. [![Image](images profile/dice-to-rule.jpg)](https://abdurahmanm2020.github.io/Dice-to-rule/start-page.html)
  
- 11. [![Image](clipbard.jpg)](https://abdurahmanm2020.github.io/Clipboard/)
+ 11. [![Image](images profile/clipbard.jpg)(https://abdurahmanm2020.github.io/Clipboard/)
  
- 12. [![Image](calculator.jpg)](https://abdurahmanm2020.github.io/Calculator/calulator.html)
+ 12. [![Image](images profile/calculator.jpg)](https://abdurahmanm2020.github.io/Calculator/calulator.html)
  
 [Link](url)
 
-
+images profile/
 For more details see(https://guides.github.com/features/mastering-markdown/).
 
 ### offers
